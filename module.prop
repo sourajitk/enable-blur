@@ -1,0 +1,6 @@
+id=blurenabler
+name=Blur Enabler
+version=v1.0
+versionCode=1
+author=sourajitk
+description=Enables Android's native blur implementation for improved visuals.

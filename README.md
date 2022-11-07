@@ -1,0 +1,1 @@
+Enables Android's native blur implementation for improved visuals.
